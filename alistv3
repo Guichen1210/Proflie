@@ -86,7 +86,7 @@
 }
 
 .hope-ui-light {
-	background-image: url(https://dev.iw233.cn/api.php?sort=pc);
+	background-image: url(https://pic.rmb.bdstatic.com/bjh/9b3472e7d0ff0a7f30e76cc4afb8a326.jpeg);
 	background-position: center;
 	background-attachment: fixed;
 	background-size: cover;
